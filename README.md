@@ -1,2 +1,2 @@
 # Aavakay
-Next generation of Bigdata technology
+Next Gen Bigdata platform
